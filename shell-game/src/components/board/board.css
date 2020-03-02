@@ -1,0 +1,7 @@
+.board {
+  position: relative;
+  margin: 20px auto;
+  width: 100%;
+  /* outline: 5px solid rgb(255, 196, 0); */
+  background-color: #be9369;
+}
